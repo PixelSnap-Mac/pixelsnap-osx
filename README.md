@@ -1,4 +1,4 @@
-# PixelSnap – Smart Pixel Measuring App for Mac  
+# PixelSnap – Smart Pixel Measuring App for OSX  
 
 <div align="center">
 
